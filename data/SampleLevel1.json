@@ -1,18 +1,18 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=dYt5fp5VGVs",
+    "percentToQualify": 52,
+    "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "GamingPlant22",
+            "link": "https://www.youtube.com/watch?v=xK8oHdmUwjo",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }

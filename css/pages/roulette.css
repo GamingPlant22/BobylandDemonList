@@ -81,7 +81,7 @@
     color: white;
 }
 .page-roulette .levels .level .actions input[type="number"]::placeholder {
-    color: #7487aa;
+    color: #B05151;
 }
 .page-roulette .levels .results {
     display: flex;

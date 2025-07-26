@@ -123,6 +123,18 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                     </template>
+                    <h3>Placement Requirements</h3>
+                    <p>
+                        Level must be at least a Medium Demon to place on the list
+                    </p>
+                    <p>
+                        Level must be beaten by somebody in the Bobyland AREDL Clan
+                    </p>
+                    <p>
+                        Placements can be discussed by people with significant progress or a completion of the level being discussed
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

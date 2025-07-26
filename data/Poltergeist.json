@@ -9,16 +9,16 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "GamingPlant22",
-            "link": "https://www.youtube.com/watch?v=63sr55FXqsI",
-            "percent": 100,
-            "hz": 240
-        },
-       {
             "user": "TacoBoiSFM",
             "link": "https://www.youtube.com/watch?v=63sr55FXqsI",
             "percent": 100,
             "hz": 144
+        },
+       {
+            "user": "GamingPlant22",
+            "link": "https://www.youtube.com/watch?v=63sr55FXqsI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

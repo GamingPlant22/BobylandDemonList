@@ -3,17 +3,11 @@
     "name": "Stalemate",
     "author": "Nox",
     "creators": ["Nox"],
-    "verifier": "Nox",
+    "verifier": "GamingPlant22",
     "verification": "https://www.youtube.com/watch?v=rtm0flhztcU",
     "percentToQualify": 64,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "GamingPlant22",
-            "link": "https://www.youtube.com/watch?v=rtm0flhztcU",
-            "percent": 100,
-            "hz": 240
-        },
        {
             "user": "TacoBoiSFM",
             "link": "https://www.youtube.com/watch?v=rtm0flhztcU",

@@ -1,0 +1,18 @@
+{
+    "id": 3979721,
+    "name": "Pyromaniac",
+    "author": "Glittershroom",
+    "creators": ["Glittershroom", "Girondavid", "Nocturne"],
+    "verifier": "SirGuillester",
+    "verification": "https://www.youtube.com/watch?v=OqOldaTOTGU",
+    "percentToQualify": 56,
+    "password": "420420",
+    "records": [
+        {
+            "user": "GamingPlant22",
+            "link": "https://www.youtube.com/watch?v=OqOldaTOTGU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

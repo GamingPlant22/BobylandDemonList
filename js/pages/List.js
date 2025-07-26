@@ -128,7 +128,7 @@ export default {
                      </template>
                     <h3>Placement Requirements</h3>
                     <p>
-                        Level must be at least a Medium Demon to place on the list
+                        Level must be at least a Hard Demon to place on the list
                     </p>
                     <p>
                         Level must be beaten by somebody in the Bobyland AREDL Clan

@@ -3,17 +3,11 @@
     "name": "Nine Circles",
     "author": "Zobros",
     "creators": ["Zobros"],
-    "verifier": "Zobros",
+    "verifier": "GamingPlant22",
     "verification": "https://www.youtube.com/watch?v=4WCgpSYz-ug",
     "percentToQualify": 58,
     "password": "124574",
     "records": [
-        {
-            "user": "GamingPlant22",
-            "link": "https://www.youtube.com/watch?v=4WCgpSYz-ug",
-            "percent": 100,
-            "hz": 60
-        },
        {
             "user": "TacoBoiSFM",
             "link": "https://www.youtube.com/watch?v=4WCgpSYz-ug",

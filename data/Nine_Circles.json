@@ -8,6 +8,12 @@
     "percentToQualify": 58,
     "password": "124574",
     "records": [
+        {
+            "user": "Shinaar",
+            "link": "https://www.youtube.com/watch?v=4WCgpSYz-ug",
+            "percent": 100,
+            "hz": 144
+        },
        {
             "user": "TacoBoiSFM",
             "link": "https://www.youtube.com/watch?v=4WCgpSYz-ug",

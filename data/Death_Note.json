@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/rTtLqNa-vtg",
     "percentToQualify": 72,
     "password": "Not Copyable",
-    "records": [
+    "records": [ 
+         {
+            "user": "ItsBobyyy",
+            "link": "https://youtu.be/rTtLqNa-vtg",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

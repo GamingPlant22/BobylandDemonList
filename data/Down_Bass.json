@@ -7,7 +7,13 @@
     "verifier": "GamingPlant22",
     "verification": "https://www.youtube.com/watch?v=8n1v40zpODA",
     "percentToQualify": 71,
-    "password": "Free to Copy",
-    "records": [
+    "password": "071100",
+    "records": [ 
+        {
+            "user": "TacoBoiSFM",
+            "link": "https://youtu.be/XObkR4WIlaw",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }

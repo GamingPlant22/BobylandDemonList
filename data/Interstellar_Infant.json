@@ -1,0 +1,18 @@
+{
+    "id": 65496280,
+    "name": "Interstellar Infant",
+    "author": "Fault",
+    "creators": ["Fault"],
+    "verifier": "GamingPlant22",
+    "verification": "https://youtu.be/1IS8THhxOrs",
+    "percentToQualify": 64,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TacoBoi",
+            "link": "https://www.youtube.com/watch?v=UZ5mxAO6_-8",
+            "percent": 73,
+            "hz": 144
+        } 
+    ]
+}

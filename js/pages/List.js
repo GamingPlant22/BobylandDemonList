@@ -137,9 +137,13 @@ export default {
                         Placements can be discussed by people with significant progress or a completion of the level being discussed
                       </p>
                     <p>
-                        ---------------------------------------------------------------------------------------              
+                        --------------CHANGELOG-----------------             
                     </p>
                     <p>
+                    2/23/2026
+                    OUTPUT SPRINGS has been placed at #8, above Down Bass and below Bloodbath.
+
+                    
                     </p>
                     <p>
                     </p>

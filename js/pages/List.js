@@ -143,13 +143,19 @@ export default {
                     2/23/2026
                      </p>
                     <p>
-                    OUTPUT SPRINGS has been placed at #8, above Down Bass and below Bloodbath.
-
-                    
+                    OUTPUT SPRINGS has been placed at #8, above Down Bass and below Bloodbath. 
                     </p>
                     <p>
+                    Terraphobia has been placed at #63, above Crazy II and below Interstellar Infant.
                     </p>
                     <p>
+                    Sweater Weather has been moved down from #24 to #28, above Niwa and below Cataclysm.
+                    </p>
+                    <p>
+                    BACKROOMS has been swapped with Crazy II, with BACKROOMS now sitting above at #64
+                    </p>
+                    <p>
+                    These changes push Desert Temple and Future Funk out of the Main List.
                     </p>
                     <p>
                 </div>

@@ -155,6 +155,12 @@ export default {
                     BACKROOMS has been swapped with Crazy II, with BACKROOMS now sitting above at #64
                     </p>
                     <p>
+                    Windy Landscape has bee moved down from #54 to #61, above Ultimate Demon Mix and below Magma Bound.
+                    </p>
+                    <p>
+                    Denouement has bee moved down from #41 to #47, above Supersonic and below Firewall.
+                    </p>
+                    <p>
                     These changes push Desert Temple and Future Funk out of the Main List.
                     </p>
                     <p>

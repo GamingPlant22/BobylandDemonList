@@ -8,5 +8,11 @@
     "percentToQualify": 78,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "GamingPlant22",
+            "link": "https://www.youtube.com/watch?v=iZiotq21u9M",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

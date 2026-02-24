@@ -135,6 +135,15 @@ export default {
                     </p>
                     <p>
                         Placements can be discussed by people with significant progress or a completion of the level being discussed
+                      </p>
+                    <p>
+                        ---------------------------------------------------------------------------------------              
+                    </p>
+                    <p>
+                    </p>
+                    <p>
+                    </p>
+                    <p>
                     </p>
                     <p>
                 </div>

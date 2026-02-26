@@ -140,7 +140,7 @@ export default {
                         --------------CHANGELOG-----------------             
                     </p>
                     <p>
-                    2/23/2026
+                    - 2/23/2026
                      </p>
                     <p>
                     OUTPUT SPRINGS has been placed at #8, above Down Bass and below Bloodbath. 
@@ -162,6 +162,15 @@ export default {
                     </p>
                     <p>
                     These changes push Desert Temple and Future Funk out of the Main List.
+                    </p>
+                    <p>
+                    - 2/25/2026
+                    </p>
+                    <p>
+                    The Flawless has been placed at #16, above Allegiance and below Crowd Control.
+                    </p>
+                    <p>
+                    This change pushes U L T R A W I D E out of the Main List.
                     </p>
                     <p>
                 </div>

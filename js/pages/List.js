@@ -173,6 +173,15 @@ export default {
                     This change pushes U L T R A W I D E out of the Main List.
                     </p>
                     <p>
+                    - 2/28/2026
+                    </p>
+                    <p>
+                    Conical Depression has been placed at #9, above Down Bass and below OUTPUT SPRING.
+                    </p>
+                    <p>
+                    This change pushes Dance Massacre out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

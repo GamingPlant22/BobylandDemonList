@@ -179,10 +179,19 @@ export default {
                     Quantum Processing has been placed at #2, above BBBBBBBBBBBBBBBBBBBB and below Snowing in Las Vegas.
                     </p>
                     <p>
-                    Conical Depression has been placed at #9, above Down Bass and below OUTPUT SPRING.
+                    Conical Depression has been placed at #10, above Down Bass and below OUTPUT SPRING.
                     </p>
                     <p>
                     These changes push Dance Massacre and Fnafbass out of the Main List.
+                    </p>
+                    <p>
+                    - 3/1/2026
+                    </p>
+                    <p>
+                    Moment has been placed at #9, above OUTPUT SPRING and below Bloodbath.
+                    </p>
+                    <p>
+                    This change pushes Silhouette out of the Main List.
                     </p>
                     <p>
                 </div>

@@ -194,6 +194,13 @@ export default {
                     This change pushes Silhouette out of the Main List.
                     </p>
                     <p>
+                    - 3/3/2026
+                    </p>
+                    <p>
+                    Cat Planet has been placed at #13, above The Ultimate Return and below Down Bass.
+                    </p>
+                    <p>
+                    This change pushes Fairydust out of the Main List.
                 </div>
             </div>
         </main>

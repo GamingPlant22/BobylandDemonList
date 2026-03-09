@@ -204,7 +204,7 @@ export default {
                     - 3/9/2026
                     </p>
                     <p>
-                    DoraDura has been placed at #19, above Crowd Control and below Heart Attack.
+                    doradura has been placed at #19, above Crowd Control and below Heart Attack.
                     </p>
                     <p>
                     This change pushes Forest Temple out of the Main List.

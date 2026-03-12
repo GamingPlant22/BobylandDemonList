@@ -210,6 +210,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Forest Temple out of the Main List.
+                    </p>
+                    <p>
+                    - 3/11/2026
+                    </p>
+                    <p>
+                    Aftermath has been placed at #13, above Cat Planet and below Down Bass.
+                    </p>
+                    <p>
+                    This change pushes Psychosis out of the Main List.
                 </div>
             </div>
         </main>

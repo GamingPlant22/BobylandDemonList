@@ -219,6 +219,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Psychosis out of the Main List.
+                    </p>
+                    <p>
+                    - 3/14/2026
+                    </p>
+                    <p>
+                    Convulsing Light has been placed at #13, above Aftermath and below Down Bass.
+                    </p>
+                    <p>
+                    This change pushes 64 out of the Main List.
                 </div>
             </div>
         </main>

@@ -228,6 +228,18 @@ export default {
                     </p>
                     <p>
                     This change pushes 64 out of the Main List.
+                    </p>
+                    <p>
+                    - 4/2/2026
+                    </p>
+                    <p>
+                    court circuit has been placed at #17, above THE MAN WITH NO EYES and below The Ultimate Return.
+                    </p>
+                    <p>
+                    Gangnam Style has been placed at #40, above Acu and below Misty Mountains.
+                    </p>
+                    <p>
+                    These changes push Stalemate and Plasma Pulse out of the Main List.
                 </div>
             </div>
         </main>

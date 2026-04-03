@@ -245,7 +245,7 @@ export default {
                     - 4/3/2026
                     </p>
                     <p>
-                    court circuit has been placed at #34, above Phantasmagoria and below Mizureta.
+                    Explosion has been placed at #34, above Phantasmagoria and below Mizureta.
                     </p>
                     <p>
                     This change pushes Crazy II out of the Main List.

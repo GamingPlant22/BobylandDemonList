@@ -240,6 +240,15 @@ export default {
                     </p>
                     <p>
                     These changes push Stalemate and Plasma Pulse out of the Main List.
+                    </p>
+                    <p>
+                    - 4/3/2026
+                    </p>
+                    <p>
+                    court circuit has been placed at #34, above Phantasmagoria and below Mizureta.
+                    </p>
+                    <p>
+                    This change pushes Crazy II out of the Main List.
                 </div>
             </div>
         </main>

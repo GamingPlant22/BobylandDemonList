@@ -8,5 +8,11 @@
     "percentToQualify": 71,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Shindaar",
+            "link": "https://www.youtube.com/watch?v=_WjLn4YjjzU",
+            "percent": 100,
+            "hz": 360 
+        },
     ]
 }

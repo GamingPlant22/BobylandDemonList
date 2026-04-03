@@ -248,7 +248,10 @@ export default {
                     Explosion has been placed at #34, above Phantasmagoria and below Mizureta.
                     </p>
                     <p>
-                    This change pushes Crazy II out of the Main List.
+                    Spectrum Blaze has been placed at #40, above Azurite and below Hypersonic.
+                    </p>
+                    <p>
+                    These changes push Crazy II and BACKROOMS out of the Main List.
                 </div>
             </div>
         </main>

@@ -245,13 +245,16 @@ export default {
                     - 4/3/2026
                     </p>
                     <p>
+                    INNARDS has been placed at #15, above Cat Planet and below Aftermath.
+                    </p>
+                    <p>
                     Explosion has been placed at #34, above Phantasmagoria and below Mizureta.
                     </p>
                     <p>
                     Spectrum Blaze has been placed at #40, above Azurite and below Hypersonic.
                     </p>
                     <p>
-                    These changes push Crazy II and BACKROOMS out of the Main List.
+                    These changes push Crazy II, BACKROOMS, and Terraphobia out of the Main List.
                 </div>
             </div>
         </main>

@@ -255,6 +255,15 @@ export default {
                     </p>
                     <p>
                     These changes push Crazy II, BACKROOMS, and Terraphobia out of the Main List.
+                    </p>
+                    <p>
+                    - 4/11/2026
+                    </p>
+                    <p>
+                    BuTiTi III has been placed at #3, above BBBBBBBBBBBBBBBBBBBB and below Quantum Processing.
+                    </p>
+                    <p>
+                    This change pushes Ultimate Demon Mix out of the Main List.
                 </div>
             </div>
         </main>

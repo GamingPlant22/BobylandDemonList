@@ -263,7 +263,7 @@ export default {
                     BuTiTi III has been placed at #3, above BBBBBBBBBBBBBBBBBBBB and below Quantum Processing.
                     </p>
                     <p>
-                    This change pushes Ultimate Demon Mix out of the Main List.
+                    This change pushes Interstellar Infant out of the Main List.
                 </div>
             </div>
         </main>

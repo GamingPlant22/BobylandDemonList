@@ -264,6 +264,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Interstellar Infant out of the Main List.
+                    </p>
+                    <p>
+                    - 4/15/2026
+                    </p>
+                    <p>
+                    Ithacropolis has been placed at #6, above Blade of Justice and below Athanatos.
+                    </p>
+                    <p>
+                    This change pushes Ultimate Demon Mix out of the Main List.
                 </div>
             </div>
         </main>

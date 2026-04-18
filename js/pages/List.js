@@ -273,6 +273,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Ultimate Demon Mix out of the Main List.
+                    </p>
+                    <p>
+                    - 4/17/2026
+                    </p>
+                    <p>
+                    Dark Odyssey has been placed at #34, above The Lost Existence and below goober land.
+                    </p>
+                    <p>
+                    This change pushes Windy Landscape out of the Main List.
                 </div>
             </div>
         </main>

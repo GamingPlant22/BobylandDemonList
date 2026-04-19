@@ -282,6 +282,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Windy Landscape out of the Main List.
+                    </p>
+                    <p>
+                    - 4/18/2026
+                    </p>
+                    <p>
+                    Devil Vortex has been placed at #1, above Snowing in Las Vegas.
+                    </p>
+                    <p>
+                    This change pushes Magma Bound out of the Main List.
                 </div>
             </div>
         </main>

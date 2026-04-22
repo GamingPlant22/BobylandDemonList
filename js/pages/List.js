@@ -299,7 +299,7 @@ export default {
                     Acrozis has been placed at #24, above Napalm and below NecropoliX.
                     </p>
                     <p>
-                    This change pushes CHROMA II out of the Main List.
+                    This change pushes CHROMA out of the Main List.
                 </div>
             </div>
         </main>

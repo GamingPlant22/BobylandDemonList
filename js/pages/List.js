@@ -291,6 +291,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Magma Bound out of the Main List.
+                    </p>
+                    <p>
+                    - 4/21/2026
+                    </p>
+                    <p>
+                    Acrozis has been placed at #24, above Napalm and below NecropoliX.
+                    </p>
+                    <p>
+                    This change pushes CHROMA II out of the Main List.
                 </div>
             </div>
         </main>

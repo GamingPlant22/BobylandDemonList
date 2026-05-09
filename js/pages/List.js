@@ -300,6 +300,14 @@ export default {
                     </p>
                     <p>
                     This change pushes CHROMA out of the Main List.
+                    </p>
+                    <p>
+                    Frozen Cave has been placed at #1, above Devil Vortex.
+                    </p>
+                    <p>
+                    This change pushes Death Note out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

@@ -302,6 +302,9 @@ export default {
                     This change pushes CHROMA out of the Main List.
                     </p>
                     <p>
+                    - 5/9/2026
+                    </p>
+                    <p>
                     Frozen Cave has been placed at #1, above Devil Vortex.
                     </p>
                     <p>

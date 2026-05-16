@@ -311,6 +311,15 @@ export default {
                     This change pushes Death Note out of the Main List.
                     </p>
                     <p>
+                    - 5/16/2026
+                    </p>
+                    <p>
+                    Acrozis has been placed at #121, above Megalovania and below PG Clubstep.
+                    </p>
+                    <p>
+                    This change pushes nothing.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

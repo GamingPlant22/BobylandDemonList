@@ -326,7 +326,7 @@ export default {
                     Sonic Boom has been placed at #60, above Sonic Wave Unlimited and below BuTiTi II.
                     </p>
                     <p>
-                    Super Mario Wave has been placed at #77, above CHROMA and below Death Note.
+                    Super Mario Wave has been placed at #78, above CHROMA and below Death Note.
                     </p>
                     <p>
                     These changes push Pyromaniac out of the Main List.

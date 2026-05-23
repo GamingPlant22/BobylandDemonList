@@ -314,10 +314,22 @@ export default {
                     - 5/16/2026
                     </p>
                     <p>
-                    Acrozis has been placed at #121, above Megalovania and below PG Clubstep.
+                    Troll Madness has been placed at #121, above Megalovania and below PG Clubstep.
                     </p>
                     <p>
                     This change pushes nothing.
+                    </p>
+                    <p>
+                    - 5/22/2026
+                    </p>
+                    <p>
+                    Sonic Boom has been placed at #60, above Sonic Wave Unlimited and below BuTiTi II.
+                    </p>
+                    <p>
+                    Super Mario Wave has been placed at #77, above CHROMA and below Death Note.
+                    </p>
+                    <p>
+                    These changes push Pyromaniac out of the Main List.
                     </p>
                     <p>
                 </div>

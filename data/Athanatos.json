@@ -8,5 +8,11 @@
     "percentToQualify": 70,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "GamingPlant22",
+            "link": "",
+            "percent": 85,
+            "hz": 240
+        } 
     ]
 }

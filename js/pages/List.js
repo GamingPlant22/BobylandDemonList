@@ -332,6 +332,15 @@ export default {
                     These changes push Pyromaniac out of the Main List.
                     </p>
                     <p>
+                    - 5/28/2026
+                    </p>
+                    <p>
+                    Auditory Breaker has been placed at #7, above Athanatos and below BBBBBBBBBBBBBBBBBBBB.
+                    </p>
+                    <p>
+                    This change pushes Poltergeist out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

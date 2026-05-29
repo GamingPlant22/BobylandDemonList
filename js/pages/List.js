@@ -341,6 +341,12 @@ export default {
                     This change pushes Poltergeist out of the Main List.
                     </p>
                     <p>
+                    - 5/29/2026
+                    </p>
+                    <p>
+                    Pyromaniac has been swapped with Death Note, with Death Note now sitting above at 77.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

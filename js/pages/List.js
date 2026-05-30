@@ -344,7 +344,10 @@ export default {
                     - 5/29/2026
                     </p>
                     <p>
-                    Pyromaniac has been swapped with Death Note, with Death Note now sitting above at 77.
+                    Pyromaniac has been swapped with Death Note, with Death Note now sitting above at #77.
+                    </p>
+                    <p>
+                    Moment has been swapped with Bloodbath, with Moment now sitting above at #13.
                     </p>
                     <p>
                 </div>

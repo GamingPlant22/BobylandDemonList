@@ -353,7 +353,7 @@ export default {
                     - 5/31/2026
                     </p>
                     <p>
-                    Snowing in las vegas has been swapped with Quantum Processing, with Quantum Processing now sitting above at #3.
+                    Snowing in las vegas has been moved down from #3 to #5, above BBBBBBBBBBBBBBBBBBBB and below BuTiTi III.
                     </p>
                     <p>
                 </div>

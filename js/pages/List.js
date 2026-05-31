@@ -350,6 +350,12 @@ export default {
                     Moment has been swapped with Bloodbath, with Moment now sitting above at #13.
                     </p>
                     <p>
+                    - 5/31/2026
+                    </p>
+                    <p>
+                    Snowing in las vegas has been swapped with Quantum Processing, with Quantum Processing now sitting above at #3.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

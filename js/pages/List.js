@@ -356,6 +356,15 @@ export default {
                     Snowing in las vegas has been moved down from #3 to #5, above BBBBBBBBBBBBBBBBBBBB and below BuTiTi III.
                     </p>
                     <p>
+                    - 6/6/2026
+                    </p>
+                    <p>
+                    ErebuS has been placed at #7, above Auditory Breaker and below BBBBBBBBBBBBBBBBBBBB.
+                    </p>
+                    <p>
+                    This change pushes Sine Wavs out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

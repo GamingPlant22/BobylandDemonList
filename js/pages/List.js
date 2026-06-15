@@ -365,6 +365,15 @@ export default {
                     This change pushes Sine Wavs out of the Main List.
                     </p>
                     <p>
+                    - 6/14/2026
+                    </p>
+                    <p>
+                    ErebuS has been placed at #13, above Sakupen Hell and below Phobos.
+                    </p>
+                    <p>
+                    This change pushes SlaughterHouse out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

@@ -374,6 +374,15 @@ export default {
                     This change pushes SlaughterHouse out of the Main List.
                     </p>
                     <p>
+                    - 6/16/2026
+                    </p>
+                    <p>
+                    Stalemate Redux has been placed at #3, above Quantum Processing and below Devil Vortex.
+                    </p>
+                    <p>
+                    This change pushes Dark Travel out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

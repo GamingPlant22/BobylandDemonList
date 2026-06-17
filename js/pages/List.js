@@ -380,7 +380,10 @@ export default {
                     Stalemate Redux has been placed at #3, above Quantum Processing and below Devil Vortex.
                     </p>
                     <p>
-                    This change pushes Dark Travel out of the Main List.
+                    Lone has been placed at #53, above Misty Mountains and below Azurite.
+                    </p>
+                    <p>
+                    These changes push Dark Travel and Fishbass out of the Main List.
                     </p>
                     <p>
                 </div>

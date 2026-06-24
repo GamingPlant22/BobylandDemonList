@@ -386,6 +386,15 @@ export default {
                     These changes push Dark Travel and Fishbass out of the Main List.
                     </p>
                     <p>
+                    - 6/24/2026
+                    </p>
+                    <p>
+                    Through The Decay has been placed at #56, above Acy and below Gangnam Style.
+                    </p>
+                    <p>
+                    This change pushes Lit Fuse out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

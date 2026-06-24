@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=AR7uX3e7J9A",
             "percent": 100,
             "hz": 360
-        } 
+        },
+        {
+            "user": "TacoBoiSFM",
+            "link": "https://youtu.be/UAyxHD3kdcc?si=G0dXmBIl3D2xfG35",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

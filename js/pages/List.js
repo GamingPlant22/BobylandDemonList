@@ -389,10 +389,19 @@ export default {
                     - 6/24/2026
                     </p>
                     <p>
-                    Through The Decay has been placed at #56, above Acy and below Gangnam Style.
+                    Through The Decay has been placed at #56, above Acu and below Gangnam Style.
                     </p>
                     <p>
                     This change pushes Lit Fuse out of the Main List.
+                    </p>
+                    <p>
+                    - 6/27/2026
+                    </p>
+                    <p>
+                    Barbaros Finale has been placed at #21, above Convulsing Light and below Down Bass.
+                    </p>
+                    <p>
+                    This change pushes 8o out of the Main List.
                     </p>
                     <p>
                 </div>

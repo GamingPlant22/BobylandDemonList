@@ -404,6 +404,15 @@ export default {
                     This change pushes 8o out of the Main List.
                     </p>
                     <p>
+                    - 7/5/2026
+                    </p>
+                    <p>
+                    Prismatic Haze has been placed at #17, above Bloodbath and below Moment.
+                    </p>
+                    <p>
+                    This change pushes Sadism out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

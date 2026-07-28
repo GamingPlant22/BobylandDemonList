@@ -413,6 +413,15 @@ export default {
                     This change pushes Sadism out of the Main List.
                     </p>
                     <p>
+                    - 7/28/2026
+                    </p>
+                    <p>
+                    Cognitive Capacity has been placed at #53, above Spectrum Blaze and below Hypersonic.
+                    </p>
+                    <p>
+                    This change pushes Supersonic out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

@@ -422,6 +422,15 @@ export default {
                     This change pushes Supersonic out of the Main List.
                     </p>
                     <p>
+                    - 8/3/2026
+                    </p>
+                    <p>
+                    UNKNOWN has been placed at #1, above Frozen Cave.
+                    </p>
+                    <p>
+                    This change pushes Denouement out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

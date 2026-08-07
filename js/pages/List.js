@@ -431,6 +431,21 @@ export default {
                     This change pushes Denouement out of the Main List.
                     </p>
                     <p>
+                    - 8/6/2026
+                    </p>
+                    <p>
+                    Timeless Dawn has been placed at #111, above Destroyed Circles and below Crazy.
+                    </p>
+                    <p>
+                    Hypersonic has been moved up from #53 to #50, above Cataclysm and below Phantasmagoria.
+                    </p>
+                    <p>
+                    Destroyed Circles has been swapped with ThermoDynamix, with Thermodynamix now sitting above at #112
+                    </p>
+                    <p>
+                    This change does absolute nothing.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

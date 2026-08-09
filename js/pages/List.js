@@ -446,6 +446,15 @@ export default {
                     This change does absolute nothing.
                     </p>
                     <p>
+                    - 8/8/2026
+                    </p>
+                    <p>
+                    Sigma Interface has been placed at #25, above Aftermath and below Convulsing Light.
+                    </p>
+                    <p>
+                    This change pushes Firewall out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

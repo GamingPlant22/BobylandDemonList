@@ -455,6 +455,15 @@ export default {
                     This change pushes Firewall out of the Main List.
                     </p>
                     <p>
+                    - 8/9/2026
+                    </p>
+                    <p>
+                    BRUTAL has been placed at #61, above Through the Decay and below Gangnam Style.
+                    </p>
+                    <p>
+                    This change pushes Rearmed out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

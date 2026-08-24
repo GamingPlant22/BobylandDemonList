@@ -464,6 +464,15 @@ export default {
                     This change pushes Rearmed out of the Main List.
                     </p>
                     <p>
+                    - 8/23/2026
+                    </p>
+                    <p>
+                    Artificial Ascent has been placed at #5, above Quantum Processing and below Stalemate Redux.
+                    </p>
+                    <p>
+                    This change pushes Night Terrors out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

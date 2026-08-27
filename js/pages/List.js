@@ -473,6 +473,18 @@ export default {
                     This change pushes Night Terrors out of the Main List.
                     </p>
                     <p>
+                    - 8/27/2026
+                    </p>
+                    <p>
+                    Fallen Club has been placed at #87, above Sine Wavs and below SlaughterHouse.
+                    </p>
+                    <p>
+                    Stereo Demoness has been placed at #94, above Magma Bound and below CHROMA.
+                    </p>
+                    <p>
+                    These changes do nothing.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

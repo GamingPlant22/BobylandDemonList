@@ -476,16 +476,19 @@ export default {
                     - 8/27/2026
                     </p>
                     <p>
-                    Rauchkammer has been placed at #65, above Thanatophobia and below Acu.
+                    Astral Divinity has been placed at #7, above BuTiTi III and below Quantum Processing.
                     </p>
                     <p>
-                    Fallen Club has been placed at #88, above Sine Wavs and below SlaughterHouse.
+                    Rauchkammer has been placed at #66, above Thanatophobia and below Acu.
                     </p>
                     <p>
-                    Stereo Demoness has been placed at #95, above Magma Bound and below CHROMA.
+                    Fallen Club has been placed at #89, above Sine Wavs and below SlaughterHouse.
                     </p>
                     <p>
-                    These changes push Acropolis out of the Main List.
+                    Stereo Demoness has been placed at #96, above Magma Bound and below CHROMA.
+                    </p>
+                    <p>
+                    These changes push Acropolis and Sonic Wave Unlimited out of the Main List.
                     </p>
                     <p>
                 </div>

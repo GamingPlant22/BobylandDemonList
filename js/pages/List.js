@@ -368,7 +368,7 @@ export default {
                     - 6/14/2026
                     </p>
                     <p>
-                    ErebuS has been placed at #13, above Sakupen Hell and below Phobos.
+                    Asmodeus has been placed at #13, above Sakupen Hell and below Phobos.
                     </p>
                     <p>
                     This change pushes SlaughterHouse out of the Main List.

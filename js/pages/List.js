@@ -491,6 +491,33 @@ export default {
                     These changes push Acropolis and Sonic Wave Unlimited out of the Main List.
                     </p>
                     <p>
+                    - 8/28/2026
+                    </p>
+                    <p>
+                    Delightful Blossoms has been placed at #72, above Arcane Ascent and below Crimson Clutter.
+                    </p>
+                    <p>
+                    Overnight has been placed at #109, above Forest Temple and below Psychosis.
+                    </p>
+                    <p>
+                    Deadly Clubstep has been placed at #112, above Silhouette and below Fairydust.
+                    </p>
+                    <p>
+                    Sparkling Hope has been placed at #115, above Dance Massacre and below Fnafbass.
+                    </p>
+                    <p>
+                    Charcoal has been placed at #122, above Timeless Dawn and below CraZy.
+                    </p>
+                    <p>
+                    Mehdi has been placed at #126, above Crystal Power and below Destroyed Circles.
+                    </p>
+                    <p>
+                    In Rainbows has been placed at #128, above Strike 3 and below Crystal Power.
+                    </p>
+                    <p>
+                    These changes push Sonic Boom out of the Main List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

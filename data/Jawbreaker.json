@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=7lsLVVujIvg",
             "percent": 100,
             "hz": 144
+        }, 
+        {
+            "user": "Mentorie",
+            "link": "",
+            "percent": 100,
+            "hz": 240 
         }
     ]
 }

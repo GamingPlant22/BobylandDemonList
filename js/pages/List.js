@@ -518,6 +518,15 @@ export default {
                     These changes push Sonic Boom out of the Main List.
                     </p>
                     <p>
+                    - 8/29/2026
+                    </p>
+                    <p>
+                    Spectrum Split has been placed at #13, above Athanatos and below Auditory Breaker.
+                    </p>
+                    <p>
+                    This change pushes Butiti II out of the Main List and Dashplorers out of Extended List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

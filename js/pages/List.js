@@ -527,6 +527,15 @@ export default {
                     This change pushes Butiti II out of the Main List and Dashplorers out of Extended List.
                     </p>
                     <p>
+                    - 9/1/2026
+                    </p>
+                    <p>
+                    Niflheim has been placed at #32, above The Ultimate Return and below Cat Planet.
+                    </p>
+                    <p>
+                    This change pushes Necropolis out of the Main List and Megalovania out of Extended List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

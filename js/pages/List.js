@@ -542,7 +542,7 @@ export default {
                     Fabricated Thoughts has been placed at #16, above Blade of Justice and below Ithacropolis.
                     </p>
                     <p>
-                    BRUTAL has been moved up from #65 to #61, above Azurite and below Spectrum Blaze.
+                    BRUTAL has been moved up from #65 to #62, above Azurite and below Spectrum Blaze.
                     </p>
                     <p>
                     This change pushes Arcane Ascent out of the Main List and Troll Madness out of Extended List.

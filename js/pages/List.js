@@ -536,6 +536,18 @@ export default {
                     This change pushes Necropolis out of the Main List and Megalovania out of Extended List.
                     </p>
                     <p>
+                    - 9/6/2026
+                    </p>
+                    <p>
+                    Fabricated Thoughts has been placed at #16, above Blade of Justice and below Ithacropolis.
+                    </p>
+                    <p>
+                    BRUTAL has been moved up from #65 to #61, above Azurite and below Spectrum Blaze.
+                    </p>
+                    <p>
+                    This change pushes Arcane Ascent out of the Main List and Troll Madness out of Extended List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

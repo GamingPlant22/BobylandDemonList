@@ -548,6 +548,15 @@ export default {
                     This change pushes Arcane Ascent out of the Main List and Troll Madness out of Extended List.
                     </p>
                     <p>
+                    - 9/9/2026
+                    </p>
+                    <p>
+                    Cobalt Hell has been placed at #3, above Devil Vortex and below Frozen Cave.
+                    </p>
+                    <p>
+                    This change pushes Delightful Blossoms out of the Main List and Pg Clubstep out of Extended List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

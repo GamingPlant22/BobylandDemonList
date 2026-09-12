@@ -557,6 +557,15 @@ export default {
                     This change pushes Delightful Blossoms out of the Main List and Pg Clubstep out of Extended List.
                     </p>
                     <p>
+                    - 9/11/2026
+                    </p>
+                    <p>
+                    Blood Echo has been placed at #2, above Frozen Cave and below UNKNOWN.
+                    </p>
+                    <p>
+                    This change pushes Crimson Clutter out of the Main List and GD10 out of Extended List.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>

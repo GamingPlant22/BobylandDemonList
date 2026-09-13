@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=c-dGuHArEyQ",
             "percent": 100,
             "hz": 240 
+        },
+        {
+            "user": "greg",
+            "link": "https://youtu.be/iZbCZvl7KaA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

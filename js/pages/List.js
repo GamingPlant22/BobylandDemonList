@@ -566,6 +566,112 @@ export default {
                     This change pushes Crimson Clutter out of the Main List and GD10 out of Extended List.
                     </p>
                     <p>
+                    - 9/13/2026
+                    </p>
+                    <p>
+                    Sonic Wave has been placed at #4, above Cobalt Hell and below Frozen Cave.
+                    </p>
+                    <p>
+                    2 1 1 has been placed at #9, above Quantum Processing and below Artificial Ascent.
+                    </p>
+                    <p>
+                    Hyper Paradox has been placed at #18, above Athanatos and below Spectrum Split.
+                    </p>
+                    <p>
+                    SubSonic has been placed at #19, above Athanatos and below Hyper Paradox.
+                    </p>
+                    <p>
+                    Fexty has been placed at #44, above Acrozis and below NecropoliX.
+                    </p>
+                    <p>
+                    Retention has been placed at #47, above Heart Attack and below Napalm.
+                    </p>
+                    <p>
+                    Falling Up has been placed at #48, above Heart Attack and below Retention.
+                    </p>
+                    <p>
+                    Deception Dive has been placed at #51, above Crowd Control and below doradura.
+                    </p>
+                    <p>
+                    Aksion has been placed at #55, above Idol19 and below Allegiance.
+                    </p>
+                    <p>
+                    Tung Tung Sahurcles has been placed at #61, above Dark Odyssey and below goober land.
+                    </p>
+                    <p>
+                    troll level has been placed at #76, above Lone and below Azurite.
+                    </p>
+                    <p>
+                    The End has been placed at #83, above Thanatophobia and below rauchkammer.
+                    </p>
+                    <p>
+                    Leyak has been placed at #91, above Necropolis and below Arcane Ascent.
+                    </p>
+                    <p>
+                    UltraSonic has been placed at #93, above BuTiTi II and below Necropolis.
+                    </p>
+                    <p>
+                    Gumshot has been placed at #95, above Sonic Boom and below BuTiTi II.
+                    </p>
+                    <p>
+                    Flat Major has been placed at #98, above Acropolis and below Sonic Wave Unlimited.
+                    </p>
+                    <p>
+                    Fiber has been placed at #99, above Acropolis and below Flat Major.
+                    </p>
+                    <p>
+                    The Secret Box has been placed at #100, above Acropolis and below Fiber.
+                    </p>
+                    <p>
+                    Buff This has been placed at #105, above Denouement and below Firewall.
+                    </p>
+                    <p>
+                    Colorful OverNight has been placed at #107, above Supersonic and below Denouement.
+                    </p>
+                    <p>
+                    Valhalla has been placed at #109, above Sadism and below Supersonic.
+                    </p>
+                    <p>
+                    Kuiper has been placed at #112, above Fishbass and below 8o.
+                    </p>
+                    <p>
+                    Heritage has been placed at #113, above Fishbass and below Kuiper.
+                    </p>
+                    <p>
+                    Whirlwind has been placed at #120, above Poltergeist and below Sine Wavs.
+                    </p>
+                    <p>
+                    free level has been placed at #121, above Poltergeist and below Whirlwind.
+                    </p>
+                    <p>
+                    Rupture has been placed at #123, above Death Note and below Poltergeist.
+                    </p>
+                    <p>
+                    DeltaFunk has been placed at #129, above Interstellar Infant and below Ultimate Demon Mix.
+                    </p>
+                    <p>
+                    FFFFFF has been placed at #133, above Fishbass and below Kuiper.
+                    </p>
+                    <p>
+                    The Four Elements has been placed at #136, above BACKROOMS and below Terraphobia.
+                    </p>
+                    <p>
+                    Soulless has been placed at #137, above BACKROOMS and below The Four Elements.
+                    </p>
+                    <p>
+                    Infrared has been placed at #138, above BACKROOMS and below Soulless.
+                    </p>
+                    <p>
+                    Explorers has been placed at #140, above Crazy II and below BACKROOMS.
+                    </p>
+                    <p>
+                    Horntail Cave has been placed at #141, above Crazy II and below Explorers.
+                    </p>
+                    <p>
+                    TENDO has been placed at #145, above 64 and below Stalemate.
+                    </p>
+                    <p>
+                    These changes push Gunslinga Corridor, ICE Carbon Diablo X, Crazy III, Thanatophobia, rauchkammer, Acu, Through The Decay, Gangnam Style, Misty Mountains, and Lone out of the Main List and The Undying, Out of this world, ToE II V2, Nowise, Forsaken Neon, White Woman, Inferno Catalyst, Electrodynamix II, Different Descent, Golden Hope, Classical, Collision, Pain Elemental, Nine Circles, Jawbreaker, Hellish Trip, Strike 3, In Rainbows, Crystal Power, Mehdi, Destroyed Circles, ThermoDynamix, Timeless Dawn, Charcoal, CraZy, Astronaut 13, Desert Temple, Future Funk, U L T R A W I D E, Dance Massacre, Sparkling Hope, Fnafbass, Silhouette, and Deadly Clubstep.
                 </div>
             </div>
         </main>

@@ -671,7 +671,7 @@ export default {
                     TENDO has been placed at #145, above 64 and below Stalemate.
                     </p>
                     <p>
-                    These changes push Gunslinga Corridor, ICE Carbon Diablo X, Crazy III, Thanatophobia, rauchkammer, Acu, Through The Decay, Gangnam Style, Misty Mountains, and Lone out of the Main List and The Undying, Out of this world, ToE II V2, Nowise, Forsaken Neon, White Woman, Inferno Catalyst, Electrodynamix II, Different Descent, Golden Hope, Classical, Collision, Pain Elemental, Nine Circles, Jawbreaker, Hellish Trip, Strike 3, In Rainbows, Crystal Power, Mehdi, Destroyed Circles, ThermoDynamix, Timeless Dawn, Charcoal, CraZy, Astronaut 13, Desert Temple, Future Funk, U L T R A W I D E, Dance Massacre, Sparkling Hope, Fnafbass, Silhouette, and Deadly Clubstep.
+                    These changes push Gunslinga Corridor, ICE Carbon Diablo X, Crazy III, Thanatophobia, rauchkammer, Acu, Through The Decay, Gangnam Style, Misty Mountains, and Lone out of the Main List and The Undying, Out of this world, ToE II V2, Nowise, Forsaken Neon, White Woman, Inferno Catalyst, Electrodynamix II, Different Descent, Golden Hope, Classical, Collision, Pain Elemental, Nine Circles, Jawbreaker, Hellish Trip, Strike 3, In Rainbows, Crystal Power, Mehdi, Destroyed Circles, ThermoDynamix, Timeless Dawn, Charcoal, CraZy, Astronaut 13, Desert Temple, Future Funk, U L T R A W I D E, Dance Massacre, Sparkling Hope, Fnafbass, Silhouette, and Deadly Clubstep out of the Extended List.
                 </div>
             </div>
         </main>

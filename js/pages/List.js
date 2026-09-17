@@ -672,6 +672,15 @@ export default {
                     </p>
                     <p>
                     These changes push Gunslinga Corridor, ICE Carbon Diablo X, Crazy III, Thanatophobia, rauchkammer, Acu, Through The Decay, Gangnam Style, Misty Mountains, and Lone out of the Main List and The Undying, Out of this world, ToE II V2, Nowise, Forsaken Neon, White Woman, Inferno Catalyst, Electrodynamix II, Different Descent, Golden Hope, Classical, Collision, Pain Elemental, Nine Circles, Jawbreaker, Hellish Trip, Strike 3, In Rainbows, Crystal Power, Mehdi, Destroyed Circles, ThermoDynamix, Timeless Dawn, Charcoal, CraZy, Astronaut 13, Desert Temple, Future Funk, U L T R A W I D E, Dance Massacre, Sparkling Hope, Fnafbass, Silhouette, and Deadly Clubstep out of the Extended List.
+                    </p>
+                    <p>
+                    - 9/17/2026
+                    </p>
+                    <p>
+                    SUPER SERIOUS WORLD has been placed at #7, above Stalemate Redux and below Devil Vortex.
+                    </p>
+                    <p>
+                    This change pushes Azurite out of the Main List and Fairydust out of Extended List.
                 </div>
             </div>
         </main>

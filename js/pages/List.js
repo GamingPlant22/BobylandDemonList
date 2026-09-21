@@ -681,6 +681,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Azurite out of the Main List and Fairydust out of Extended List.
+                    </p>
+                    <p>
+                    - 9/20/2026
+                    </p>
+                    <p>
+                    Dream City has been placed at #30, above Bloodbath and below Prismatic Haze.
+                    </p>
+                    <p>
+                    This change pushes BRUTAL out of the Main List and Forest Temple out of Extended List.
                 </div>
             </div>
         </main>

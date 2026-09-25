@@ -690,6 +690,15 @@ export default {
                     </p>
                     <p>
                     This change pushes BRUTAL out of the Main List and Forest Temple out of Extended List.
+                    </p>
+                    <p>
+                    - 9/24/2026
+                    </p>
+                    <p>
+                    Ethereal Artifice has been placed at #12, above Astral Divinity and below Quantum Processing.
+                    </p>
+                    <p>
+                    This change pushes Spectrum Blaze out of the Main List and Overnight out of Extended List.
                 </div>
             </div>
         </main>

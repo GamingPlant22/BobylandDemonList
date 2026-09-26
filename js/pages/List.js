@@ -699,6 +699,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Spectrum Blaze out of the Main List and Overnight out of Extended List.
+                    </p>
+                    <p>
+                    - 9/25/2026
+                    </p>
+                    <p>
+                    QOLLABOS has been placed at #9, above Artificial Ascent and below Stalemate Redux.
+                    </p>
+                    <p>
+                    This change pushes Cognitive Capacity out of the Main List and Psychosis out of Extended List.
                 </div>
             </div>
         </main>

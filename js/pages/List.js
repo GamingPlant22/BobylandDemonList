@@ -708,6 +708,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Cognitive Capacity out of the Main List and Psychosis out of Extended List.
+                    </p>
+                    <p>
+                    - 9/27/2026
+                    </p>
+                    <p>
+                    cloud has been placed at #15, above BuTiTi III and below Astral Divinity.
+                    </p>
+                    <p>
+                    This change pushes Niwa out of the Main List and 64 out of Extended List.
                 </div>
             </div>
         </main>

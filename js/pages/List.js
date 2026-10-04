@@ -726,6 +726,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Sweater Weather out of the Main List and TENDO out of Extended List.
+                    </p>
+                    <p>
+                    - 10/4/2026
+                    </p>
+                    <p>
+                    Arctic Lights has been placed at #5, above Sonic Wave and below Frozen Cave.
+                    </p>
+                    <p>
+                    This change pushes Cataclysm out of the Main List and Stalemate out of Extended List.
                 </div>
             </div>
         </main>

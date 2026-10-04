@@ -717,6 +717,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Niwa out of the Main List and 64 out of Extended List.
+                    </p>
+                    <p>
+                    - 10/3/2026
+                    </p>
+                    <p>
+                    Deep Bass has been placed at #3, above BuTiTi III and below Astral Divinity.
+                    </p>
+                    <p>
+                    This change pushes Sweater Weather out of the Main List and TENDO out of Extended List.
                 </div>
             </div>
         </main>

@@ -735,6 +735,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Cataclysm out of the Main List and Stalemate out of Extended List.
+                    </p>
+                    <p>
+                    - 10/8/2026
+                    </p>
+                    <p>
+                    WHITE LIGHT has been placed at #77, above Sweater Weather and below Cataclysm.
+                    </p>
+                    <p>
+                    This change pushes Plasma Pulse out of Extended List.
                 </div>
             </div>
         </main>

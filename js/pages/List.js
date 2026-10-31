@@ -744,6 +744,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Plasma Pulse out of Extended List.
+                    </p>
+                    <p>
+                    - 10/30/2026
+                    </p>
+                    <p>
+                    Cobwebs has been placed at #3, above Deep Bass and below Blood Echo.
+                    </p>
+                    <p>
+                    This change pushes Hypersonic out of the Main List and CraZy II out of Extended List.
                 </div>
             </div>
         </main>

@@ -753,6 +753,16 @@ export default {
                     </p>
                     <p>
                     This change pushes Hypersonic out of the Main List and CraZy II out of Extended List.
+                    </p>
+                    <p>
+                    - 11/3/2026
+                    </p>
+                    <p>
+                    CONVOLVER has been placed at #77, above Cataclysm and below Hypersonic.
+                    </p>
+                    <p>
+                    This change pushes Horntail Cave out of Extended List.
+                    
                 </div>
             </div>
         </main>

@@ -762,6 +762,15 @@ export default {
                     </p>
                     <p>
                     This change pushes Horntail Cave out of Extended List.
+                    </p>
+                    <p>
+                    - 11/7/2026
+                    </p>
+                    <p>
+                    CONVOLVER has been placed at #2, above Blood Echo and below UNKNOWN.
+                    </p>
+                    <p>
+                    This change pushes Phantasmagoria out of the Main List and Explorers out of Extended List.
                     
                 </div>
             </div>

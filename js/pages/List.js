@@ -771,6 +771,18 @@ export default {
                     </p>
                     <p>
                     This change pushes Phantasmagoria out of the Main List and Explorers out of Extended List.
+                    </p>
+                    <p>
+                    - 11/19/2026
+                    </p>
+                    <p>
+                    Arctic Lights has been lowered from #7 to #9, above Devil Vortex and below Cobalt Hell.
+                    </p>
+                    <p>
+                    Sweater Weather has been lowered from #81 to #88, above Lone and below troll level.
+                    </p>
+                    <p>
+                    This change pushes nothing.
                     
                 </div>
             </div>

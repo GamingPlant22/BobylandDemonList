@@ -779,7 +779,7 @@ export default {
                     Arctic Lights has been lowered from #7 to #9, above Devil Vortex and below Cobalt Hell.
                     </p>
                     <p>
-                    Sweater Weather has been lowered from #81 to #88, above Lone and below troll level.
+                    Sweater Weather has been lowered from #81 to #88, above Misty Mountains and below Lone.
                     </p>
                     <p>
                     This change pushes nothing.

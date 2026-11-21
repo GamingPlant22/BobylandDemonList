@@ -783,6 +783,17 @@ export default {
                     </p>
                     <p>
                     This change pushes nothing.
+                    </p>
+                    <p>
+                    - 11/21/2026
+                    </p>
+                    <p>
+                    Kuzureta has been placed at #10, above Devil Vortex and below Arctic Lights.
+                    </p>
+                    <p>
+                    This change pushes Explosion out of the Main List and BACKROOMS out of Extended List.
+                    </p>
+                    <p>
                     
                 </div>
             </div>

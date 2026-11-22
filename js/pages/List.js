@@ -794,6 +794,15 @@ export default {
                     This change pushes Explosion out of the Main List and BACKROOMS out of Extended List.
                     </p>
                     <p>
+                    - 11/22/2026
+                    </p>
+                    <p>
+                    Embolden has been placed at #12, above SUPER SERIOUS WORLD and below Devil Vortex.
+                    </p>
+                    <p>
+                    This change pushes Mizureta out of the Main List and Infrared out of Extended List.
+                    </p>
+                    <p>
                     
                 </div>
             </div>
